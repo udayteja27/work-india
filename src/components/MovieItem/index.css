@@ -1,0 +1,20 @@
+.movieItem-container {
+  margin: 30px;
+}
+.MoveiImg {
+  height: 400px;
+  width: 300px;
+}
+.title {
+  color: #ffffff;
+
+  font-weight: 500;
+}
+.voteAverage {
+  color: #ffffff;
+  font-family: "Roboto";
+  margin-top: 0px;
+}
+.link-item {
+  text-decoration: none;
+}

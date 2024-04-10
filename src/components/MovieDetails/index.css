@@ -1,0 +1,67 @@
+.details-container {
+  display: flex;
+  flex-direction: row;
+  background-color: #1d1e1f;
+  border-radius: 10px;
+}
+.img-title-container {
+  display: flex;
+  flex-direction: row;
+}
+.details-container {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+.posterImg {
+  height: 200px;
+  width: 150px;
+  margin-right: 10px;
+  margin: 20px;
+}
+.movie-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #39393b;
+  min-height: 100vh;
+}
+.overview-container {
+  margin: 20px;
+}
+.overview {
+  color: #cacccf;
+}
+.rating {
+  color: #77a3e6;
+}
+.releaseDate {
+  color: #cacccf;
+}
+.duration {
+  color: #cacccf;
+}
+.backdrop_path {
+  margin-right: 0px;
+}
+.profilePath {
+  height: 180px;
+  width: 120px;
+}
+.cast-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.cast-member {
+  width: 150px;
+  margin: 20px;
+}
+.name {
+  color: #ffffff;
+}
+.character {
+  color: #ffffff;
+}
+.heading {
+  margin-left: 10px;
+}
